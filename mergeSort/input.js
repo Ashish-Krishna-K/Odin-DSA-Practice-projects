@@ -12,4 +12,3 @@ const generateRandomArray = () => {
 };
 const hugeUnsortedArray = generateRandomArray();
 exports.hugeUnsortedArray = hugeUnsortedArray;
-console.log(hugeUnsortedArray);
